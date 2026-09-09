@@ -11,7 +11,7 @@
         height="200"
         src="https://media1.tenor.com/m/HKWyBGLUST0AAAAd/katou-megumi.gif"
         alt="Katou Megumi GIF"
-        style="border-radius: 15px;"
+        style="border-radius: 15;"
     />
 </div>
 
