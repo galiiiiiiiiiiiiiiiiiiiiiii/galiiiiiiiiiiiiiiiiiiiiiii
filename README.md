@@ -6,9 +6,7 @@
 
 <br clear="both">
 
-<div data-importer="image" align="right">
-  <img data-importer="image" height="100" src="tenor.com/view/katou-megumi-gif-19312477" />
-</div>
+<div class="tenor-gif-embed" data-postid="19312477" data-share-method="host" data-aspect-ratio="0.91875" data-width="100%"><a href="https://tenor.com/view/katou-megumi-gif-19312477">Katou Megumi GIF</a>from <a href="https://tenor.com/search/katou+megumi-gifs">Katou Megumi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
