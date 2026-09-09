@@ -6,11 +6,13 @@
 
 <br clear="both">
 
-<div class="tenor-gif-embed" data-postid="19312477" data-share-method="host" data-aspect-ratio="0.91875" data-width="100%">
-  <a href="https://tenor.com/view/katou-megumi-gif-19312477"></a>
-  <a href="https://tenor.com/search/katou+megumi-gifs"></a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="right">
+    <img
+        height="100"
+        src="https://media1.tenor.com/m/HKWyBGLUST0AAAAd/katou-megumi.gif"
+        alt="Katou Megumi GIF"
+    />
+</div>
 
 ###
 
