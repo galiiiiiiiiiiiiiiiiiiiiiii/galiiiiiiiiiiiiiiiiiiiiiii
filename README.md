@@ -1,7 +1,5 @@
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/galiiiiiiiiiiiiiiiiiiiiiii/galiiiiiiiiiiiiiiiiiiiiiii/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=galiiiiiiiiiiiiiiiiiiiiiii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/galiiiiiiiiiiiiiiiiiiiiiii/galiiiiiiiiiiiiiiiiiiiiiii/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -9,7 +7,7 @@
 <br clear="both">
 
 <div data-importer="image" align="right">
-  <img data-importer="image" height="100" src="https://tenor.com/btcdJ.gif"  />
+  <img data-importer="image" height="100" src="https://tenor.com/view/katou-megumi-gif-19312477"/>
 </div>
 
 ###
