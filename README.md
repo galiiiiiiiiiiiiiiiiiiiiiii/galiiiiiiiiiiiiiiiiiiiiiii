@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div data-importer="image" align="right">
-  <img data-importer="image" height="100" src="https://tenor.com/view/katou-megumi-gif-19312477"/>
+  <img data-importer="image" height="100" src="tenor.com/view/katou-megumi-gif-19312477"/>
 </div>
 
 ###
@@ -36,9 +36,9 @@
 
 <!-- [game-name] -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
-    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[galiiiiiiiiiiiiiiiiiiiiiii]/[galiiiiiiiiiiiiiiiiiiiiiii]/output/[pacman]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[galiiiiiiiiiiiiiiiiiiiiiii]/[galiiiiiiiiiiiiiiiiiiiiiii]/output/[pacman]-contribution-graph.svg">
+    <img alt="[pacman] contribution graph" src="https://raw.githubusercontent.com/[galiiiiiiiiiiiiiiiiiiiiiii]/[galiiiiiiiiiiiiiiiiiiiiiii]/output/[pacman]-contribution-graph.svg">
 </picture>
 
 ###
