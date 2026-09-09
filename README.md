@@ -8,7 +8,7 @@
 
 <div align="right">
     <img
-        height="200"
+        height="150"
         src="https://media1.tenor.com/m/HKWyBGLUST0AAAAd/katou-megumi.gif"
         alt="Katou Megumi GIF"
     />
