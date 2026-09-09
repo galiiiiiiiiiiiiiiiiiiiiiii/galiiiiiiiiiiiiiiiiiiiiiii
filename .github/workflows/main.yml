@@ -19,9 +19,9 @@ jobs:
             - name: generate contribution graph SVGs
               uses: abozanona/pacman-contribution-graph@main
               with:
-                  github_user_name: ${{ github.repository_owner }}
+                  github_user_name: ${{ github.galiiiiiiiiiiiiiiiiiiiiiii }}
                   # Comma-separated list of game names to generate. Default: pacman
-                  games: 'pacman,breakout'
+                  games: 'pacman'
                   # Optional: omit the month labels row above the grid. Default: false
                   hide_month_labels: 'false'
 
