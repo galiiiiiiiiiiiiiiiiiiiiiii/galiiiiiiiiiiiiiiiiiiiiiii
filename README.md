@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
     <img
         height="150"
         src="https://media1.tenor.com/m/HKWyBGLUST0AAAAd/katou-megumi.gif"
