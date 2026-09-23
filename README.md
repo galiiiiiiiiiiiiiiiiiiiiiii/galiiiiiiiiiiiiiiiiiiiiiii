@@ -1,6 +1,5 @@
 <div data-importer="stats" align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=galiiiiiiiiiiiiiiiiiiiiiii&theme=dark&locale=ja&timezone=UTC&date_format=j%2Fn%5B%2FY%5D&background=45%2C430000%2C000000" alt="GitHub Streak" /></a>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=galiiiiiiiiiiiiiiiiiiiiiii&theme=dark&hide_border=true&border_radius=4.6&locale=ja&timezone=UTC&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 ###
 
