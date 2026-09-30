@@ -7,10 +7,9 @@
 
 <div align="center">
     <img
-        height="200"
+        height="100"
         src="https://media1.tenor.com/m/HKWyBGLUST0AAAAd/katou-megumi.gif"
         alt="Katou Megumi GIF"
-        border-radius: 15px
     />
 </div>
 
